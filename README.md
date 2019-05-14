@@ -9,7 +9,7 @@ This repository is going to contain a mobile-responsive version of a mock portfo
     * HTML
     * Media Queries 
     
- # Responsiveness demostration
+ # Responsiveness Demonstration
  
  
  ![Responsive](https://user-images.githubusercontent.com/46465000/57718445-4beda100-764b-11e9-89aa-f7bd9590d2f3.gif)
